@@ -3,12 +3,13 @@ Data Integrity Issues Related to Third-Party Applications
 
 # Project Overview
 ## Vision & Goals
-Please replace with your projects vision.
-* Goal 1
-* Goal 2
+Collectively identify problems stemming from and develop solutions for data integrity issues related to third-party applications
+* Goal 1: Identify data integrity issues
+* Goal 2: Develop solutions 
+* Goal 3: Document the issues/problems and solutions
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
+Nonprofit and education organizations
 
 ## Hub Group Link
 Please replace with the URL for your Power of Us Hub and/or Trailblazer Community group.
