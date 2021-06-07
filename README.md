@@ -17,7 +17,7 @@ Please replace with the URL for your Power of Us Hub and/or Trailblazer Communit
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Don Miller   | Group Leader  | [https://github.com/Donmill7](https://https://github.com/Donmill7)    | 
+Don Miller   | Group Leader  | [https://github.com/Donmill7]://github.com/Donmill7)    | Data Integrity Integrations
 Enter persons name   | Contributor   |                                                    | Enter working group name
 
 ## Sprint (DATE)
