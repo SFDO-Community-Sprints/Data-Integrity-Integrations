@@ -1,5 +1,5 @@
 # Project Name
-Please replace with your projects name
+Data Integrity Issues Related to Third-Party Applications
 
 # Project Overview
 ## Vision & Goals
