@@ -12,7 +12,7 @@ Collectively identify problems stemming from and develop solutions for data inte
 Nonprofit and education organizations
 
 ## Hub Group Link
-Please replace with the URL for your Power of Us Hub and/or Trailblazer Community group.
+https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/blob/main/README.md
 
 # Current Project Team & Accomplishments
 
