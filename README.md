@@ -17,7 +17,7 @@ Please replace with the URL for your Power of Us Hub and/or Trailblazer Communit
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Don Miller   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
+Don Miller   | Group Leader  | [fakeusername](https://https://github.com/Donmill7)    | 
 Enter persons name   | Contributor   |                                                    | Enter working group name
 
 ## Sprint (DATE)
