@@ -55,5 +55,8 @@ Documentation can be found in the repository [wiki] (URL for wiki where docs are
 # Future Contributions (AKA what were you unable to finish at the Sprint)
 Replace with the goals your team would like to continue working on next time.
   
-  
+Notes for Day 1:
+Identify problems stemming from Data Integrity issues resulting from third-party applications
+Develop Solutions
+Create a living document of solutions for admins, users and orgs  
 
