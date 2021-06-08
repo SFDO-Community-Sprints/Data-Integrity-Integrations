@@ -22,9 +22,9 @@ Enter persons name   | Contributor   |                                          
 
 ## Sprint (June 9 & 10, 2021)
 
-## Recommended Working Format
+# Recommended Working Format
 
-After problems are identified, pick one where you can offer expertise or extensive personal experience, and form a group of 3-4 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will from the very beginning of the work be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...just start at the beginning having someone keep an eye toward the end of the sprint by bringing together the highlights into a shareable format.
+After problems are identified, pick one where you can offer expertise or extensive personal experience, and form a group of 3-4 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will from the very beginning of the work be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. 
 
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.
