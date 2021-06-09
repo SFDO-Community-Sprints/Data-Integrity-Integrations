@@ -16,7 +16,7 @@ First, create a matching rule for the Contact object:
 
 Matching rule edit screen placeholder, before save
 
-Matching rule view placeholder, after save
+![matchingruledetail](https://user-images.githubusercontent.com/251229/121421577-4ce18180-c93c-11eb-938a-bbbbd05d1c5a.png)
 
 Your matching criteria should look like this:
 
