@@ -21,7 +21,7 @@ First, create a matching rule for the Contact object:
 
 Your matching criteria should look like this:
 
-> (Contact: FirstNameFUZZY: FIRST NAMEMatchBlank = FALSE) AND (Contact: LastNameEXACTMatchBlank = FALSE) AND ((Contact: HomeEmailEXACTMatchBlank = FALSE) OR (Contact: WorkEmailEXACTMatchBlank = FALSE) OR (Contact: AlternateEmailEXACTMatchBlank = FALSE))
+> ((Contact: AlternateEmail EXACT MatchBlank = FALSE) OR (Contact: HomeEmail EXACT MatchBlank = FALSE) OR (Contact: WorkEmail EXACT MatchBlank = FALSE)) AND (Contact: FirstName FUZZY: FIRST NAME MatchBlank = FALSE) AND (Contact: LastName EXACT MatchBlank = FALSE)
 
 Next, create a duplicate rule that uses your new matching rule:
 
