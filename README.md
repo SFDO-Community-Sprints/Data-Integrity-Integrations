@@ -18,7 +18,10 @@ https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/blob/main/
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
 Don Miller   | Group Leader  | [https://github.com/Donmill7]://github.com/Donmill7)    | Data Integrity Integrations
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Maida Rider   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
+Micah Adler   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
+Pranav Nagrecha   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
+Adam Lincoln   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
 
 ## Sprint (June 9 & 10, 2021)
 
@@ -46,6 +49,9 @@ Enter persons name   | Contributor   |                                          
 
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.
+
+The __Duplicates__ subgroup started a [catalog of matching and duplicate rules for common use cases](doc/SampleDuplicateRules.md).
+
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
