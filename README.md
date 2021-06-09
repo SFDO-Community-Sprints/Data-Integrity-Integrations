@@ -50,7 +50,7 @@ Enter persons name   | Contributor   |                                          
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.
 
-The __Duplicates__ subgroup started a [catalog of matching and duplicate rules for common use cases](docs/SampleDuplicateRules.md).
+The __Duplicates__ subgroup started a [catalog of matching and duplicate rules for common use cases](doc/SampleDuplicateRules.md).
 
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
