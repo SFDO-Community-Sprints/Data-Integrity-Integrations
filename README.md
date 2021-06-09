@@ -22,6 +22,7 @@ Maida Rider   | Contributor   |                                                 
 Micah Adler   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
 Pranav Nagrecha   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
 Adam Lincoln   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
+Brynn Scott | Contributor                                                            |Data Integrity Integrations: Addresses
 
 ## Sprint (June 9 & 10, 2021)
 
