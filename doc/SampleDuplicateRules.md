@@ -29,4 +29,4 @@ Next, create a duplicate rule that uses your new matching rule:
 
 ![duplicateruleview](https://user-images.githubusercontent.com/251229/121422081-d85b1280-c93c-11eb-8c83-129ceb7bc2c4.png)
 
-
+And you're done!
