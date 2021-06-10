@@ -37,6 +37,7 @@ After problems are identified, pick one where you can offer expertise or extensi
 Please replace with the tasks you team was able to accomplish during the Sprint event.
 
 The __Duplicates__ subgroup started a [catalog of matching and duplicate rules for common use cases](doc/SampleDuplicateRules.md).
+
 The __Addresses__ subgroup started a list of address issues, identified common issues to the subgroup (address standardization and incomplete addresses), the results of which are stored in the project wiki, with the subgroup is ready to begin documentation. 
 
 # Past Project Teams
