@@ -36,6 +36,8 @@ After problems are identified, pick one where you can offer expertise or extensi
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.
 
+The __Duplicates__ subgroup started a [catalog of matching and duplicate rules for common use cases](doc/SampleDuplicateRules.md).
+
 # Past Project Teams
 We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
 
@@ -53,9 +55,6 @@ Enter persons name   | Contributor   |                                          
 
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-The __Duplicates__ subgroup started a [catalog of matching and duplicate rules for common use cases](doc/SampleDuplicateRules.md).
-
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
