@@ -38,7 +38,7 @@ Please replace with the tasks you team was able to accomplish during the Sprint 
 
 The __Duplicates__ subgroup started a [catalog of matching and duplicate rules for common use cases](doc/SampleDuplicateRules.md).
 
-The __Addresses__ subgroup identified address issues to work on (address standardization and incomplete addresses) and is ready to begin documentation - see project wiki entry https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki/Address-Problem-Identification-and-Solutioning. 
+The __Addresses__ subgroup identified address standardization and incomplete addresses as issues to solve and is ready to begin documentation - see project wiki entry https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki/Address-Problem-Identification-and-Solutioning. 
 
 # Past Project Teams
 We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
