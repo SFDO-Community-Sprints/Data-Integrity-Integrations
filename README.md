@@ -25,7 +25,7 @@ Adam Lincoln   | Contributor   |                                                
 Bryn Scott | Contributor    |                                                        |Data Integrity Integrations: Addresses
 Theresa Gossett  |Contributor|                                                        |Data Integrity Integrations: Addresses
 Radhika Kosaraju   |Cnontributor|                                                     |Data Integrity Integrations: Addresses
-Umayal Ramasubramanian  |Contributor|                                                 |Data Integrations: Addresses  
+Umayal Ramasubramanian  |Contributor|                                                 |Data Integrity Integrations: Addresses  
 
 ## Sprint (June 9 & 10, 2021)
 
