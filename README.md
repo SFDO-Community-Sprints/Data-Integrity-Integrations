@@ -17,14 +17,14 @@ https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/blob/main/
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Don Miller   | Group Leader  | [https://github.com/Donmill7]://github.com/Donmill7)    | Data Integrity Integrations
+Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | Data Integrity Integrations
 Maida Rider   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
 Micah Adler   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
 Pranav Nagrecha   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
-Adam Lincoln   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
+Adam Lincoln   | Contributor   |  [https://github.com/adamlincoln](https://github.com/adamlincoln)  | Data Integrity Integrations: Duplicates
 Bryn Scott | Contributor    |                                                        |Data Integrity Integrations: Addresses
 Theresa Gossett  |Contributor|                                                        |Data Integrity Integrations: Addresses
-Radhika Kosaraju   |Cnontributor|                                                     |Data Integrity Integrations: Addresses
+Radhika Kosaraju   |Contributor|                                                     |Data Integrity Integrations: Addresses
 Umayal Ramasubramanian  |Contributor|                                                 |Data Integrity Integrations: Addresses  
 
 ## Sprint (June 9 & 10, 2021)
