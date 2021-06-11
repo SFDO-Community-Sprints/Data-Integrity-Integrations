@@ -68,7 +68,7 @@ Enter persons name   | Contributor   |                                          
 
 
 # Project Resources and Documentation
-* Documentation can be found in the repository links under accomplishments and in the wiki site https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
+* Documentation can be found in the repository links under accomplishments and in the wiki site https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki
 * Power of Us HUB group "Sprint: Data Issues with Integrations: https://powerofus.force.com/s/group/0F97y00000009hdCAA/sprint-data-issues-with-integatrations
 
 
