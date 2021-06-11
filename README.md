@@ -38,6 +38,8 @@ After some initial conversation and [brainstorming](doc/InitialTopicBrainstorm.m
 
 The __Duplicates__ subgroup started a [catalog of matching and duplicate rules for common use cases](doc/SampleDuplicateRules.md).
 
+Duplicate solutions - completed but lacking links in Github: Videos, including one on flows
+
 The __Addresses__ subgroup started documenting methods for ensuring address standardization and completeness, including a comparison of NPSP-compatible tools (https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki/Address-Problem-Identification-and-Solutioning). 
 
 
