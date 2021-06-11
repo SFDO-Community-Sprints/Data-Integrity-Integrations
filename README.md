@@ -38,7 +38,7 @@ After some initial conversation and [brainstorming](doc/InitialTopicBrainstorm.m
 
 The __Duplicates__ subgroup started a [catalog of matching and duplicate rules for common use cases](doc/SampleDuplicateRules.md).
 
-The __Addresses__ subgroup identified address standardization and incomplete addresses as issues to solve and is ready to begin documentation - see project wiki entry https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki/Address-Problem-Identification-and-Solutioning. 
+The __Addresses__ subgroup started documenting methods for ensuring address standardization and completeness, including a comparison of NPSP-compatible tools (https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki/Address-Problem-Identification-and-Solutioning). 
 
 
 # Past Project Teams
