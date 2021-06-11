@@ -39,4 +39,5 @@ The out-of-the-box rule that compares Leads to Contacts has two shortcomings for
 
 You can solve this problem by writing your own Contact matching rule, like we do [above](#i-want-to-check-all-the-email-fields-on-contact-instead-of-just-the-standard-email-field-along-with-a-fuzzy-first-name-match-and-exact-last-name-match), then including it in a custom duplicate for for Leads.
 
-Placeholder for lead duplicate rule view
+![leadduplicateruleview](https://user-images.githubusercontent.com/251229/121718483-5be94080-cab0-11eb-8301-c6879cefced2.png)
+
