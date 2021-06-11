@@ -18,14 +18,14 @@ https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/blob/main/
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
 Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | Data Integrity Integrations
-Maida Rider   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
-Micah Adler   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
-Pranav Nagrecha   | Contributor   |                                                    | Data Integrity Integrations: Duplicates
+Maida Rider   | Contributor   |  https://github.com/RiderM780                          | Data Integrity Integrations: Duplicates
+Micah Adler   | Contributor   | https://github.com/micah-adler                         | Data Integrity Integrations: Duplicates
+Pranav Nagrecha   | Contributor   | https://github.com/PranavNagrecha                  | Data Integrity Integrations: Duplicates
 Adam Lincoln   | Contributor   |  [https://github.com/adamlincoln](https://github.com/adamlincoln)  | Data Integrity Integrations: Duplicates
-Bryn Scott | Contributor    |                                                        |Data Integrity Integrations: Addresses
-Theresa Gossett  |Contributor|                                                        |Data Integrity Integrations: Addresses
-Radhika Kosaraju   |Contributor|                                                     |Data Integrity Integrations: Addresses
-Umayal Ramasubramanian  |Contributor|                                                 |Data Integrity Integrations: Addresses  
+Bryn Scott | Contributor    |  https://github.com/Rad-B                               |Data Integrity Integrations: Addresses
+Theresa Gossett  |Contributor| tgossett                                               |Data Integrity Integrations: Addresses
+Radhika Kosaraju   |Contributor|  https://github.com/radhik012358                     |Data Integrity Integrations: Addresses
+Umayal Ramasubramanian  |Contributor|umayal1983                                        |Data Integrity Integrations: Addresses  
 
 ## Sprint (June 9 & 10, 2021)
 
