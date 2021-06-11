@@ -30,3 +30,14 @@ Next, create a duplicate rule that uses your new matching rule:
 ![duplicateruleview](https://user-images.githubusercontent.com/251229/121422081-d85b1280-c93c-11eb-8c83-129ceb7bc2c4.png)
 
 And you're done!
+
+## I am creating Leads, and I want to check whether my new Leads are duplicates of existing Contacts.
+
+The out-of-the-box rule that compares Leads to Contacts has two shortcomings for organizations using NPSP or EDA:
+1. It maps the Lead's Company field to the Contact's Account Name field, but NPSP and EDA generally use special Account Names
+2. It doesn't know about the multiple email fields that are present, and only compares the Lead's Email field to the Contact's Email field
+
+You can solve this problem by writing your own Contact matching rule, like we do [above](#i-want-to-check-all-the-email-fields-on-contact-instead-of-just-the-standard-email-field-along-with-a-fuzzy-first-name-match-and-exact-last-name-match), then including it in a custom duplicate for for Leads.
+
+![leadduplicateruleview](https://user-images.githubusercontent.com/251229/121718483-5be94080-cab0-11eb-8301-c6879cefced2.png)
+
