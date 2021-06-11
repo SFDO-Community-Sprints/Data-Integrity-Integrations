@@ -66,13 +66,15 @@ Enter persons name   | Contributor   |                                          
 
 
 # Project Resources and Documentation
-Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+* Documentation can be found in the repository links under accomplishments and in the wiki site https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
+* Power of Us HUB group "Sprint: Data Issues with Integrations: https://powerofus.force.com/s/group/0F97y00000009hdCAA/sprint-data-issues-with-integatrations
+
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
-Replace with the goals your team would like to continue working on next time.
+Next steps for future sprnts:
+* Data Integrity issues related to duplicates: Add the "what" and the "why" and make the documentation more useable so integrations can be managed better
+* Data Integrity issues releated to addresses: Complete documention by expanding and refining it, and review all NPSP integration options
+
   
-Notes for Day 1:
-Identify problems stemming from Data Integrity issues resulting from third-party applications
-Develop Solutions
-Create a living document of solutions for admins, users and orgs  
+
 
