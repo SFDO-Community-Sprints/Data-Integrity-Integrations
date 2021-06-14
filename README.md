@@ -75,7 +75,7 @@ Enter persons name   | Contributor   |                                          
 # Future Contributions (AKA what were you unable to finish at the Sprint)
 Next steps for future sprnts:
 * Data Integrity issues related to duplicates: Add the "what" and the "why" and make the documentation more useable so integrations can be managed better
-* Data Integrity issues releated to addresses: Complete documention by expanding and refining it, and review all NPSP integration options
+* Data Integrity issues releated to addresses: Complete documention by expanding and refining it, continue testing tools and solutions such as Google MAPS, and review all NPSP integration options
 
   
 
