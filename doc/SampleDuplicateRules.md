@@ -41,7 +41,7 @@ You can solve this problem by writing your own Contact matching rule, like we do
 
 ![leadduplicateruleview](https://user-images.githubusercontent.com/251229/121718483-5be94080-cab0-11eb-8301-c6879cefced2.png)
 
-## Screen Flow Video
+## Video: Finding Duplicates with a Screen Flow 
 
 Screen Flow Example: In this case what Pranav did was he created a screen flow that finds duplicates with the flow and shows them on the contact object. You can see from the screenshot and corresponding video how the flow was created. 
 
