@@ -41,3 +41,18 @@ You can solve this problem by writing your own Contact matching rule, like we do
 
 ![leadduplicateruleview](https://user-images.githubusercontent.com/251229/121718483-5be94080-cab0-11eb-8301-c6879cefced2.png)
 
+## Screen Flow Video
+
+Screen Flow Example: In this case what Pranav did was he created a screen flow that finds duplicates with the flow and shows them on the contact object. You can see from the screenshot and corresponding video how the flow was created. 
+
+In addition, we are looking to do the same thing for opportunities. In this case the flow will find a single contact and see if the contact has duplicate records in the system. And it will reparent the opportunity to the user selected contact. This will be pasted in the document later. 
+
+Please see the link for the screen flow example. 
+
+https://drive.google.com/file/d/1DHJ0ncg7dPNQqGhNKTsODDizc_WQKWgy/view?usp=sharing
+
+
+
+
+
+
