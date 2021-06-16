@@ -11,7 +11,7 @@ Collectively identify problems stemming from and develop solutions for data inte
 Nonprofit and education organizations
 
 ## Hub Group Link
-https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/blob/main/README.md
+https://powerofus.force.com/s/group/0F97y00000009hdCAA/sprint-data-issues-with-integatrations
 
 # Current Project Team & Accomplishments
 
