@@ -46,15 +46,23 @@ The __Addresses__ subgroup started documenting methods for ensuring address stan
 # Past Project Teams
 We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
 
-## Sprint (DATE):
+## Sprint (June 29, 2021):
 
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Kerry Townsend       | Contributor   | [KerryTownsend](https://github.com/KerryTownsend)  | Duplicate Rules and 3rd party
+Lauren Weller        | Contributor   | [lsweller29](https://github.com/lsweller29)        | Duplicate Rules and 3rd party
+Mustafa Sahin        | Contributor   | [mustafa-sahin](https://github.com/mustafa-sahin)  | Duplicate Rules and 3rd party
+Chris Rolfe          | Contributor   | [cjrolfe](https://github.com/cjrolfe)              | Duplicate Rules and 3rd party
+Mahmood Ashraf       | Contributor   | [mahmood772](https://github.com/mahmood772)        | Duplicate Rules and 3rd party
+Sara Avci            | Contributor   | [saraavci](https://github.com/saraavci)            | Duplicate Rules and 3rd party
+Ines Garcia          | Contributor   | [GarciaInes](https://github.com/GarciaInes)        | Duplicate Rules and 3rd party
+
+### Project Team Accomplishments
+After some initial conversation we started to discuss over the Duplicate Management pickles with multiple entries of integration we started [documenting some of the issues found](SPRINT29thJune-Brainstormin.md).
 
 ## Sprint (DATE):
 
