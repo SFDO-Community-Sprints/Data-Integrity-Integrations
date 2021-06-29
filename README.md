@@ -66,6 +66,8 @@ Ines Garcia          | Contributor   | [GarciaInes](https://github.com/GarciaIne
 ### Project Team Accomplishments
 After some initial conversation we started to discuss over the Duplicate Management pickles with multiple entries of integration we started [documenting some of the issues found](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/blob/120fb980a4632e2933a64f76e10ff740ecc45215/doc/SPRINT29thJune-Brainstorming).
 
+The team had a range of experience including non profit end users who are working through data integrity problems that they have inherited and consultants who advise non profits on how to design integrations to ensure data integrity. We reviewed the materials created in the last sprint and did not identify any obvious areas of contibution to those so focused on creating a document that provides guidance to admins on how to approach integration design to avoid data integrity problems and how to work through data integration that arise through integration. 
+
 ## Sprint (DATE):
 
 ### Project Team Accomplishments
