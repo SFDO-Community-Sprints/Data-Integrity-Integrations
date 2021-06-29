@@ -68,6 +68,8 @@ After some initial conversation we started to discuss over the Duplicate Managem
 
 The team had a range of experience including non profit end users who are working through data integrity problems that they have inherited and consultants who advise non profits on how to design integrations to ensure data integrity. We reviewed the materials created in the last sprint and did not identify any obvious areas of contibution to those so focused on creating a document that provides guidance to admins on how to approach integration design to avoid data integrity problems and how to work through data integration that arise through integration. 
 
+Find the updated [Wiki here](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki) and continue in future sprints to extend and organise all entries in a easy to consume structure
+
 ## Sprint (DATE):
 
 ### Project Team Accomplishments
@@ -88,6 +90,7 @@ Enter persons name   | Contributor   |                                          
 Next steps for future sprnts:
 * Data Integrity issues related to duplicates: Add the "what" and the "why" and make the documentation more useable so integrations can be managed better
 * Data Integrity issues releated to addresses: Complete documention by expanding and refining it, continue testing tools and solutions such as Google MAPS, and review all NPSP integration options
+* Find the updated [Wiki here](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki) and continue in future sprints to extend and organise all entries in a easy to consume structure
 
   
 
