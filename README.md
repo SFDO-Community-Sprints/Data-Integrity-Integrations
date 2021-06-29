@@ -59,7 +59,9 @@ Mustafa Sahin        | Contributor   | [mustafa-sahin](https://github.com/mustaf
 Chris Rolfe          | Contributor   | [cjrolfe](https://github.com/cjrolfe)              | Duplicate Rules and 3rd party
 Mahmood Ashraf       | Contributor   | [mahmood772](https://github.com/mahmood772)        | Duplicate Rules and 3rd party
 Sara Avci            | Contributor   | [saraavci](https://github.com/saraavci)            | Duplicate Rules and 3rd party
+CJ Wilkerson         | Contributor   | [CJWilkerson](https://github.com/CJWilkerson)        | Duplicate Rules and 3rd party
 Ines Garcia          | Contributor   | [GarciaInes](https://github.com/GarciaInes)        | Duplicate Rules and 3rd party
+
 
 ### Project Team Accomplishments
 After some initial conversation we started to discuss over the Duplicate Management pickles with multiple entries of integration we started [documenting some of the issues found](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/blob/120fb980a4632e2933a64f76e10ff740ecc45215/doc/SPRINT29thJune-Brainstorming).
