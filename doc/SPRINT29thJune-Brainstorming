@@ -1,0 +1,24 @@
+Sprint discussion with group members:
+* Limted exposure to address issues
+* Hightlighted that duplicate matching was not always possible as not enough data is available
+* Duplciate sources include people completing multipe forms or submitting infor via multiple channels
+* Integrating with EventBrite can create duplicates as a booker will make a booking an event for attendees - this results to one contact in Salesforce - workaround ask for individual info and then after event clean up. Make sure Campaign Members list is reprentative of people who attend
+* The design of a 'Standard' connector can cause challenges with the way the data is modeled that makes it hard to report appropriately for each organisation
+* When using Zapier the Duplicate Alerts need to be turn off as this interupts the data follow
+* Zapier, FormAssembly, MailChimp, Shoppify, Integromat (middleware), EventBrite, VirginGiving, JustGiving
+* A used example is Zapier to ingrate EventBrite with Salesfroce
+* It can be difficult to map data exported from a system together as the reports from some platforms don't include unique IDs
+* Add on platforms and connects are often used because they are free but they have limit functions, features that let you design detailed integrations
+* this is a new solution that might support improved data integrity https://www.beaufort12.com/eventbrite
+* Data chllanges include different spelling and different email addresses
+* Solutions include ETL tools
+* Product Requests: Would like Salesforce Duplicate rule to be more flexible in weighting, excluded words, different combinations 
+* Product Requests: Would like Salesforce to run a job to show want duplicates exist
+* Product Request: Would ike Salesforce to have more than one email address that was functional 
+* Returning people IDs are coded into url so that the system knows it is the same person even if they enter different info
+* Recommendation: Move away from using personal data as identifiers in favour of a unique id so that person can be connected with other records
+* Using IDs in urls creates questions about about privacy as the person can be identified by that ID
+* Try to avoid using the SF Contact ID. Options include hashing or encrypted IDs
+* Different middleware tools have features that allow you to map unique ids to people to create
+* Joining peoples interactions together is a challenge that all organisation at the moment
+* Signing posting some of the Ingration Design documents
