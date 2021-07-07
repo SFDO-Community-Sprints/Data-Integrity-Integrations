@@ -51,6 +51,11 @@ Please see the link for the screen flow example.
 
 https://drive.google.com/file/d/1DHJ0ncg7dPNQqGhNKTsODDizc_WQKWgy/view?usp=sharing
 
+## Video: Finding Duplicates using matching rules and display on a flow, with an Opportunity and Primary Contact: 
+
+This video shows how to create a screen flow to detect duplicate records using opportunities, as referenced above.  This process helps end users select the correct records - not avoid duplicate records.
+
+https://drive.google.com/file/d/17BHS110IwYhPEdOQ8KR-CGPsI9c0AwdA/view
 
 
 
