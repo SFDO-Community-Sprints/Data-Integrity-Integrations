@@ -6,6 +6,7 @@ Data Integrity Issues Related to Third-Party Applications
 Collectively identify problems stemming from and develop solutions for data integrity issues related to third-party applications
 * Goal 1: Create documentation for users, admins and orgs on how to solve data integrity issues 
 * Goal 2: Identify problems and develop actionable solutions
+* Goal 3: Make documention accessible to Salesforce ecosystem
 
 ## Project Vertical
 Nonprofit and education organizations
