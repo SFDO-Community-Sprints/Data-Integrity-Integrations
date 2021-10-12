@@ -41,7 +41,7 @@ The __Duplicates__ subgroup started a [catalog of matching and duplicate rules f
 
 Duplicate solutions - completed but lacking links in Github: Videos, including one on flows
 
-The __Addresses__ subgroup started documenting methods for ensuring address standardization and completeness, including a comparison of NPSP-compatible tools (https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki/Address-Data-Integrity-Documentation). 
+The __Addresses__ subgroup started documenting methods for ensuring address standardization and completeness, including a comparison of NPSP-compatible tools (https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki/Documentation:-Data-Integrity-Issues-related-to-Address-data). 
 
 
 # Past Project Teams
