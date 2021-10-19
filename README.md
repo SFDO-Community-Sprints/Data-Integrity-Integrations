@@ -21,6 +21,7 @@ After problems are identified, pick one where you can offer expertise or extensi
 
 # Current Project Team & Accomplishments
 
+
 ## Sprint (October 20 & 21, 2021):
 
 ### Project Team Accomplishments
