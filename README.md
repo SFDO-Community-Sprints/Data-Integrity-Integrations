@@ -16,6 +16,18 @@ https://powerofus.force.com/s/group/0F97y00000009hdCAA/sprint-data-issues-with-i
 
 # Current Project Team & Accomplishments
 
+## Sprint (October 20 & 21, 2021):
+
+### Project Team Accomplishments
+Please replace with the tasks you team was able to accomplish during the Sprint event.
+
+Full Name            | Team Role     | Github Username                                    | Working Group? 
+------------         | ------------- | -------------                                      |-------------   
+Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | 
+Enter persons name   | Contributor   |                                                    | Enter working group name
+
+
+
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
 Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | Data Integrity Integrations
