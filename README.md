@@ -71,14 +71,14 @@ The team had a range of experience including non profit end users who are workin
 
 Find the updated [Wiki here](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki) and continue in future sprints to extend and organise all entries in a easy to consume structure
 
-## Sprint (DATE):
+## Sprint (October 20 & 21, 2021):
 
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
+Don Miller   | Group Leader  | [fakeusername](https://github.com/Donmill7)    | 
 Enter persons name   | Contributor   |                                                    | Enter working group name
 
 
