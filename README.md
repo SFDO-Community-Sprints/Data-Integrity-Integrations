@@ -42,6 +42,19 @@ Umayal Ramasubramanian  |Contributor|umayal1983                                 
 
 ## Sprint (June 9 & 10, 2021)
 
+
+Full Name            | Team Role     | Github Username                                    | Working Group? 
+------------         | ------------- | -------------                                      |-------------   
+Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | Data Integrity Integrations
+Maida Rider   | Contributor   |  https://github.com/RiderM780                          | Data Integrity Integrations: Duplicates
+Micah Adler   | Contributor   | https://github.com/micah-adler                         | Data Integrity Integrations: Duplicates
+Pranav Nagrecha   | Contributor   | https://github.com/PranavNagrecha                  | Data Integrity Integrations: Duplicates
+Adam Lincoln   | Contributor   |  [https://github.com/adamlincoln](https://github.com/adamlincoln)  | Data Integrity Integrations: Duplicates
+Bryn Scott | Contributor    |  https://github.com/Rad-B                               |Data Integrity Integrations: Addresses
+Theresa Gossett  |Contributor| tgossett                                               |Data Integrity Integrations: Addresses
+Radhika Kosaraju   |Contributor|  https://github.com/radhik012358                     |Data Integrity Integrations: Addresses
+Umayal Ramasubramanian  |Contributor|umayal1983                                        |Data Integrity Integrations: Addresses  
+
 ### Recommended Working Format
 
 After problems are identified, pick one where you can offer expertise or extensive personal experience, and form a group of 3-4 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will from the very beginning of the work be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. 
