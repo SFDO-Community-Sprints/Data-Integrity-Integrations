@@ -14,6 +14,11 @@ Nonprofit and education organizations
 ## Hub Group Link
 https://powerofus.force.com/s/group/0F97y00000009hdCAA/sprint-data-issues-with-integatrations
 
+## Recommended Working Format
+
+After problems are identified, pick one where you can offer expertise or extensive personal experience, and form a group of 3-4 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will from the very beginning of the work be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. 
+
+
 # Current Project Team & Accomplishments
 
 ## Sprint (October 20 & 21, 2021):
@@ -66,10 +71,6 @@ Theresa Gossett  |Contributor| tgossett                                         
 Radhika Kosaraju   |Contributor|  https://github.com/radhik012358                     |Data Integrity Integrations: Addresses
 Umayal Ramasubramanian  |Contributor|umayal1983                                        |Data Integrity Integrations: Addresses  
 
-### Recommended Working Format
-
-After problems are identified, pick one where you can offer expertise or extensive personal experience, and form a group of 3-4 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will from the very beginning of the work be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. 
-
 ### Project Team Accomplishments
 After some initial conversation and [brainstorming](doc/InitialTopicBrainstorm.md), the group decided to choose two topics and split into one subgroup for each topic.
 
@@ -78,12 +79,6 @@ The __Duplicates__ subgroup started a [catalog of matching and duplicate rules f
 Duplicate solutions - completed but lacking links in Github: Videos, including one on flows
 
 The __Addresses__ subgroup started documenting methods for ensuring address standardization and completeness, including a comparison of NPSP-compatible tools (https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki/Documentation:-Data-Integrity-Issues-related-to-Address-data). 
-
-
-# Past Project Teams
-We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
-
-## Sprint (June 29, 2021):
 
 
 # Project Resources and Documentation
