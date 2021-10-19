@@ -28,17 +28,9 @@ Enter persons name   | Contributor   |                                          
 
 
 
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | Data Integrity Integrations
-Maida Rider   | Contributor   |  https://github.com/RiderM780                          | Data Integrity Integrations: Duplicates
-Micah Adler   | Contributor   | https://github.com/micah-adler                         | Data Integrity Integrations: Duplicates
-Pranav Nagrecha   | Contributor   | https://github.com/PranavNagrecha                  | Data Integrity Integrations: Duplicates
-Adam Lincoln   | Contributor   |  [https://github.com/adamlincoln](https://github.com/adamlincoln)  | Data Integrity Integrations: Duplicates
-Bryn Scott | Contributor    |  https://github.com/Rad-B                               |Data Integrity Integrations: Addresses
-Theresa Gossett  |Contributor| tgossett                                               |Data Integrity Integrations: Addresses
-Radhika Kosaraju   |Contributor|  https://github.com/radhik012358                     |Data Integrity Integrations: Addresses
-Umayal Ramasubramanian  |Contributor|umayal1983                                        |Data Integrity Integrations: Addresses  
+# Past Project Teams
+We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
+
 
 ## Sprint (June 9 & 10, 2021)
 
