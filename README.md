@@ -27,10 +27,29 @@ Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/
 Enter persons name   | Contributor   |                                                    | Enter working group name
 
 
-
 # Past Project Teams
 We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
 
+## Sprint (June 29, 2021):
+
+Full Name            | Team Role     | Github Username                                    | Working Group? 
+------------         | ------------- | -------------                                      |-------------   
+Kerry Townsend       | Contributor   | [KerryTownsend](https://github.com/KerryTownsend)  | Duplicate Rules and 3rd party
+Lauren Weller        | Contributor   | [lsweller29](https://github.com/lsweller29)        | Duplicate Rules and 3rd party
+Mustafa Sahin        | Contributor   | [mustafa-sahin](https://github.com/mustafa-sahin)  | Duplicate Rules and 3rd party
+Chris Rolfe          | Contributor   | [cjrolfe](https://github.com/cjrolfe)              | Duplicate Rules and 3rd party
+Mahmood Ashraf       | Contributor   | [mahmood772](https://github.com/mahmood772)        | Duplicate Rules and 3rd party
+Sara Avci            | Contributor   | [saraavci](https://github.com/saraavci)            | Duplicate Rules and 3rd party
+CJ Wilkerson         | Contributor   | [CJWilkerson](https://github.com/CJWilkerson)        | Duplicate Rules and 3rd party
+Ines Garcia          | Contributor   | [GarciaInes](https://github.com/GarciaInes)        | Duplicate Rules and 3rd party
+
+
+### Project Team Accomplishments
+After some initial conversation we started to discuss over the Duplicate Management pickles with multiple entries of integration we started [documenting some of the issues found](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/blob/120fb980a4632e2933a64f76e10ff740ecc45215/doc/SPRINT29thJune-Brainstorming).
+
+The team had a range of experience including non profit end users who are working through data integrity problems that they have inherited and consultants who advise non profits on how to design integrations to ensure data integrity. We reviewed the materials created in the last sprint and did not identify any obvious areas of contibution to those so focused on creating a document that provides guidance to admins on how to approach integration design to avoid data integrity problems and how to work through data integration that arise through integration. 
+
+Find the updated [Wiki here](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki) and continue in future sprints to extend and organise all entries in a easy to consume structure
 
 ## Sprint (June 9 & 10, 2021)
 
@@ -65,38 +84,6 @@ The __Addresses__ subgroup started documenting methods for ensuring address stan
 We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
 
 ## Sprint (June 29, 2021):
-
-### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Kerry Townsend       | Contributor   | [KerryTownsend](https://github.com/KerryTownsend)  | Duplicate Rules and 3rd party
-Lauren Weller        | Contributor   | [lsweller29](https://github.com/lsweller29)        | Duplicate Rules and 3rd party
-Mustafa Sahin        | Contributor   | [mustafa-sahin](https://github.com/mustafa-sahin)  | Duplicate Rules and 3rd party
-Chris Rolfe          | Contributor   | [cjrolfe](https://github.com/cjrolfe)              | Duplicate Rules and 3rd party
-Mahmood Ashraf       | Contributor   | [mahmood772](https://github.com/mahmood772)        | Duplicate Rules and 3rd party
-Sara Avci            | Contributor   | [saraavci](https://github.com/saraavci)            | Duplicate Rules and 3rd party
-CJ Wilkerson         | Contributor   | [CJWilkerson](https://github.com/CJWilkerson)        | Duplicate Rules and 3rd party
-Ines Garcia          | Contributor   | [GarciaInes](https://github.com/GarciaInes)        | Duplicate Rules and 3rd party
-
-
-### Project Team Accomplishments
-After some initial conversation we started to discuss over the Duplicate Management pickles with multiple entries of integration we started [documenting some of the issues found](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/blob/120fb980a4632e2933a64f76e10ff740ecc45215/doc/SPRINT29thJune-Brainstorming).
-
-The team had a range of experience including non profit end users who are working through data integrity problems that they have inherited and consultants who advise non profits on how to design integrations to ensure data integrity. We reviewed the materials created in the last sprint and did not identify any obvious areas of contibution to those so focused on creating a document that provides guidance to admins on how to approach integration design to avoid data integrity problems and how to work through data integration that arise through integration. 
-
-Find the updated [Wiki here](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki) and continue in future sprints to extend and organise all entries in a easy to consume structure
-
-## Sprint (October 20 & 21, 2021):
-
-### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
 
 
 # Project Resources and Documentation
