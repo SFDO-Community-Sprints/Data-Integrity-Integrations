@@ -9,7 +9,7 @@ Are you not sure how to set up duplicate and matching rules to achieve what you 
 
 This document is a catalog of matching criteria that you can use if they meet your needs perfectly, or as a starting point if you want something that's very close.
 
-# Catalog of matching criteria
+## Catalog of matching criteria
 
 ## I want to check all the email fields on Contact instead of just the standard Email field, along with a fuzzy first name match and exact last name match.
 
