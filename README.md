@@ -90,8 +90,11 @@ The __Addresses__ subgroup started documenting methods for ensuring address stan
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
 Next steps for future sprnts:
+* Identify additional data integrity issues related to integration and third-party apps
 * Data Integrity issues related to duplicates: Add the "what" and the "why" and make the documentation more useable so integrations can be managed better
 * Data Integrity issues releated to addresses: Complete documention by expanding and refining it, continue testing tools and solutions such as Google MAPS, and review all NPSP integration options
+* Improve the documentation - e.g., make more complete verbiage, add screenshot and videos.
+* Brainstorm on how to distribute to the Salesforce ecosystem.
 * Find the updated [Wiki here](https://github.com/SFDO-Community-Sprints/Data-Integrity-Integrations/wiki) and continue in future sprints to extend and organise all entries in a easy to consume structure
 
   
