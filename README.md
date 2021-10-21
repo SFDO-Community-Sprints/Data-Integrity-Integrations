@@ -90,7 +90,7 @@ The __Addresses__ subgroup started documenting methods for ensuring address stan
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
 Next steps for future sprnts:
-* Identify additional data integrity issues related to integration and third-party apps
+* Identify additional data integrity issues related to integrations and third-party apps
 * Data Integrity issues related to duplicates: Add the "what" and the "why" and make the documentation more useable so integrations can be managed better
 * Data Integrity issues releated to addresses: Complete documention by expanding and refining it, continue testing tools and solutions such as Google MAPS, and review all NPSP integration options
 * Improve the documentation - e.g., make more complete verbiage, add screenshot and videos.
