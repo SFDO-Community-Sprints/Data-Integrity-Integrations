@@ -31,6 +31,7 @@ Full Name            | Team Role     | Github Username                          
 ------------         | ------------- | -------------                                      |-------------   
 Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | Problem Solving/Documentation
 Parvathy Achuthan Thampi   | Contributor   |   Na                                            | Problem Solving/Documentation
+Kathy W.  | Contributor   |                      | Problem Solving/Documentation
 
 
 # Past Project Teams
