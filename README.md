@@ -29,8 +29,8 @@ Please replace with the tasks you team was able to accomplish during the Sprint 
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Don Miller   | Group Leader  | [https://github.com/Donmill7](https://github.com/Donmill7)    | Problem Solving/Documentation
+Parvathy Achuthan Thampi   | Contributor   |   Na                                            | Problem Solving/Documentation
 
 
 # Past Project Teams
