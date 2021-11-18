@@ -12,7 +12,7 @@ Collectively identify problems stemming from and develop solutions for data inte
 Nonprofit and education organizations
 
 ## Hub Group Link
-https://powerofus.force.com/s/group/0F97y00000009hdCAA/sprint-data-issues-with-integatrations
+https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000H1D6SAK?tab=discussion&sort=LAST_MODIFIED_DATE_DESC
 
 ## Recommended Working Format
 
